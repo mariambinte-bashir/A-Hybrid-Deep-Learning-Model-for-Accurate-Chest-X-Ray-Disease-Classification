@@ -45,7 +45,7 @@ The system utilizes **transfer learning** and integrates **focal modulation mech
 ## 📁 Dataset
 
 Dataset Used: **COVID-19, Pneumonia, and Normal Chest X-Ray Images**  
-*(Add source URL here if available)*
+*(https://www.kaggle.com/datasets/sachinkumar413/covid-pneumonia-normal-chest-xray-images)*
 
 ---
 
@@ -67,9 +67,4 @@ You can expand this section with:
 
 ---
 
-## 📌 Note
-
-This project was developed as part of the academic curriculum for Courses 499A and 499B. It aims to contribute toward AI-powered healthcare diagnostics using deep learning and transformer-based vision models.
-
----
 
