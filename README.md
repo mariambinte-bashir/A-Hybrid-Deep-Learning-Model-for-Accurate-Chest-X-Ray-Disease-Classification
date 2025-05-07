@@ -1,14 +1,14 @@
-# Chest X-Ray Disease Classification Using CNNs and Vision Transformers
+# Conference Name: 4th International Conference on Computing and Machine Intelligence (ICMI 2025)
+April 05-06, 2025. Central Michigan, USA 
 
-## Course: 499B and 499A
+### Conference Link: https://www.satcconf.com
 
 ---
 
-## Group: [Your Group Number]
+## Paper Title: A Hybrid Deep Learning Model for Accurate Chest X-Ray Disease Classification
 
-### Members:
-- [Your Name]
-- [Your Partner's Name]
+### Paper ID:
+- 271
 
 ---
 
