@@ -7,8 +7,7 @@ April 05-06, 2025. Central Michigan, USA
 
 ## Paper Title: A Hybrid Deep Learning Model for Accurate Chest X-Ray Disease Classification
 
-### Paper ID:
-- 271
+### Paper ID: 271
 
 ---
 
